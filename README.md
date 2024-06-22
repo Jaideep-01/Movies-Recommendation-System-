@@ -3,10 +3,10 @@ Welcome to the Movies Recommendation System! This repository contains the implem
 ## Overview
 Content-based recommendation systems recommend items to users by comparing the content of items to a user’s profile. In this project, we utilize various movie features such as genre, director, cast, and plot summaries to create recommendations tailored to each user's taste.
 ## Features
-Content-Based Filtering: Leverages the features of the movies to recommend similar items.
-Feature Extraction: Utilizes movie metadata such as genre, cast, director, and plot to create item profiles.
-Cosine Similarity: Calculates the similarity between movies based on their features.
-User Profile Construction: Creates a user profile based on the movies they have liked or rated highly.
+1. Content-Based Filtering: Leverages the features of the movies to recommend similar items.
+2. Feature Extraction: Utilizes movie metadata such as genre, cast, director, and plot to create item profiles.
+3. Cosine Similarity: Calculates the similarity between movies based on their features.
+4. User Profile Construction: Creates a user profile based on the movies they have liked or rated highly.
 ## Data
 The dataset used in this project consists of movie metadata, which includes the following information for each movie:
 1. Poster	

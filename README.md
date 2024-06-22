@@ -10,7 +10,7 @@ User Profile Construction: Creates a user profile based on the movies they have 
 ## Data
 The dataset used in this project consists of movie metadata, which includes the following information for each movie:
 1. Poster	
-2. Title	3.
+2. Title	
 3. Year
 4. Certificate
 5. Duration (min)
